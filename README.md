@@ -6,7 +6,7 @@ git clone git@github.com:[自分のURL]
 ### .env.localを作成する  （クローンするとなぜか消えてしまうため）
 ```
 touch frontend/.env.local
-touch backend/.env/local
+touch backend/.env.local
 ```
 
 ### ビルドする
